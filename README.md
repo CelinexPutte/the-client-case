@@ -3,7 +3,7 @@
 # Coding the Curbs
 <!-- Geef je project een titel en schrijf in één zin wat het is -->
 
-Userstory:<br>
+<u>Userstory:</u><br>
 Als vervoerder van goederen wil ik een overzicht van smart zones in een stad kunnen bekijken, zodat ik kan zien waar ik kan parkeren om mijn goederen te laden en/of lossen
 
 ## Inhoudsopgave
