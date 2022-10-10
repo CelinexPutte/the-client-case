@@ -2,7 +2,7 @@
 <!-- Geef je project een titel en schrijf in één zin wat het is -->
 Voor deze opdracht heb ik een pagina gemaakt voor het bedrijf 'Coding the Curbs'. Er waren een aantal userstories waar ik uit kon kiezen. Ik heb voor de volgende gekozen:
 
-<b>Userstory:<b>
+<b>Userstory:</b>
 Als vervoerder van goederen wil ik een overzicht van smart zones in een stad kunnen bekijken, zodat ik kan zien waar ik kan parkeren om mijn goederen te laden en/of lossen
 
 ## Inhoudsopgave
