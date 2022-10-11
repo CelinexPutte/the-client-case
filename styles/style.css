@@ -28,7 +28,6 @@
   --gray-color: #f7f7f7;
   --black-color: #000;
   --white-color: #fff;
-  /* font-size: min(calc(1em + 1vw), 4em); */
 }
 
 * {
@@ -52,6 +51,8 @@ body {
 header {
   display: flex;
   justify-content: space-between;
+  align-items: center;
+  padding: 0 2em;
   height: 5.25em;
   width: 100%;
   background: var(--primary-color-2);
@@ -62,24 +63,17 @@ header {
   display: flex;
   justify-content: flex-start;
   height: 3rem;
-  margin-left: 2em;
-  margin-top: auto;
-  margin-bottom: auto;
 }
 
 .menu {
   display: flex;
   flex-direction: row;
   justify-content: flex-end;
-  margin-right: 3em;
-  margin-top: auto;
-  margin-bottom: auto;
   gap: 2em;
 }
 
 .menu-tabs {
   list-style: none;
-  margin-right: 2em;
 }
 
 .menu-button {
@@ -93,6 +87,10 @@ header {
 
 .menu-button:hover {
   color: var(--primary-color-1);
+}
+
+.hamburger-menu, .hamburger-line {
+  display: none;
 }
 
 /* Section met kaart */
@@ -125,6 +123,9 @@ h1 {
   align-self: center;
   margin-left: auto;
   margin-right: auto;
+  text-align: center;
+  padding: 1rem;
+  line-height: 1;
 }
 
 .bg-img {
@@ -206,7 +207,6 @@ h3 {
  p {
   margin-top: 1em;
   margin-bottom: 1em;
-  font-family: var(--font-roboto)
 }
 
 .link-even {
@@ -285,4 +285,108 @@ a.links-site:hover {
 
 /* Breakpoint op 750px max width voor mobiel*/
 
+@media screen and (max-width: 750px) {
+  .menu {
+    display: none;
+  }
+
+  .hamburger-menu {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+    padding: 16px;
+    width: 3rem;
+    height: 3rem;
+    background-color: var(--accent-color-2);
+    border: 0 solid var(--accent-color-2);
+    border-radius: 0.5rem;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+    transition: 0.4s;
+  }
+  
+  .hamburger-menu:hover {
+    background-color: var(--accent-color);
+    cursor: pointer;
+  }
+
+  .hamburger-line {
+    display: block;
+    width: 24px;
+    min-height: 2px;
+    background-color: var(--black-color);
+  }
+  
+  .bg-img {
+    object-fit: cover;
+    height: 100%;
+  }
+
+  article {
+    height: fit-content;
+  }
+
+  article > h2 {
+    margin: 0;
+    text-align: center;
+  }
+
+  .info-city {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    padding-bottom: 2rem;
+    text-align: center;
+  }
+
+  .citymap {
+    height: auto;
+    width: 12em;
+  }
+
+  .info-zone {
+    display: flex;
+    align-items: center;
+    margin: 0;
+  }
+
+  .adres-1, .adres-2 {
+    width: 12rem;
+    margin: 0;
+  }
+
+  .map-pin {
+    margin: 0;
+    width: 12em;
+    height: auto;
+  }
+}
+
 /* Breakpoint op 935px max width ivm foto*/
+@media screen and (max-width: 935px) {
+ .bg-img {
+    object-fit: cover;
+    height: 100%;
+  }
+}
+
+  /* Breakpoint op 400px max width */
+
+@media screen and (max-width: 400px) {
+  footer {
+    display: flex;
+    flex-direction: column;
+    height: fit-content;
+  }
+
+  .logo-bottom {
+    margin: 0 auto;
+  }
+
+  p.links-site {
+    margin: 1rem auto;
+  }
+}
