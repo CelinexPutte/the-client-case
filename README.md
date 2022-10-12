@@ -20,21 +20,24 @@ Elke stad heeft de volgende informatie:
 
 Onderaan de pagina staan nog knoppen die verwijzen naar de originele pagina van Coding the Curbs en naar het contactformulier.
 
-![screenshot pc website 1](https://user-images.githubusercontent.com/112859814/195289746-5bae1545-f456-42bf-a902-9c7994cd792e.png)
+<img src="https://user-images.githubusercontent.com/112859814/195303782-5dd5580a-78c8-4c17-8ee4-4b410cac46e4.png" alt="screenshot pc 1" width=75%/>
 
-![screenshot pc website 2](https://user-images.githubusercontent.com/112859814/195289755-c0b2f700-6bef-4d56-801e-2c264dba3044.png)
+<img src="https://user-images.githubusercontent.com/112859814/195303789-2a6725cf-a330-4140-8297-eea6a982a304.png" alt="screenshot pc 2" width=75%/>
 
-![screenshot pc website 3](https://user-images.githubusercontent.com/112859814/195289758-8093547b-8f37-4c25-a506-3e5a9b2e6a06.png)
+<img src="https://user-images.githubusercontent.com/112859814/195304188-80f75ca1-cc5b-47a9-a6fe-891144a523f8.png" alt="screenshot pc 3" width=75%/>
+
+<img src="https://user-images.githubusercontent.com/112859814/195304572-aca6e45a-351f-4a4f-b196-eaaa8809bd0a.gif" alt="scroll voorbeeld"/>
+
 
 De pagina is volledig responsive. Zo is de website ook makkelijk op een mobiel te bezoeken.
 
-<img src="https://user-images.githubusercontent.com/112859814/195291159-d26b8b1e-6072-4c19-b9c7-fa0de79c8db1.jpg" alt="screenshot mobiel 1" width=25% />
+<img src="https://user-images.githubusercontent.com/112859814/195303241-fba0e3c7-d946-4290-bff9-c49d24e7115f.png" alt="screenshot mobiel 1" width=25%/>
 
-<img src="https://user-images.githubusercontent.com/112859814/195291175-25dc509f-9853-49c8-8143-b6021d16ea08.jpg" alt="screenshot mobiel 2" width=25% />
+<img src="https://user-images.githubusercontent.com/112859814/195303245-5eba27fb-a584-4ea0-b27e-832cd7713b74.png" alt="screenshot mobiel 2" width=25% />
 
-<img src="https://user-images.githubusercontent.com/112859814/195291179-2c2b0bd0-e942-4ad8-82e0-35c3b200c438.jpg" alt="screenshot mobiel 3" width=25% />
+<img src="https://user-images.githubusercontent.com/112859814/195303247-a2085914-05a1-4a5d-b9bf-5d7f2f3a53c6.png" alt="screenshot mobiel 3" width=25% />
 
-<img src="https://user-images.githubusercontent.com/112859814/195291186-76d37654-5148-40af-8e66-989b1f96b947.jpg" alt="screenshot mobiel 4" width=25% />
+<img src="https://user-images.githubusercontent.com/112859814/195303250-0ea45f57-1e96-4fd6-9569-e002b0ac92f0.png" alt="screenshot mobiel 4" width=25% />
 
 ## Kenmerken
 <!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
