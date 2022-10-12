@@ -20,14 +20,30 @@ Elke stad heeft de volgende informatie:
 
 Onderaan de pagina staan nog knoppen die verwijzen naar de originele pagina van Coding the Curbs en naar het contactformulier.
 
+
+<b>Startpagina:</b><br>
+
+Dit is het scherm wat je ziet als je naar de website gaat. Bovenaan staan het logo en de navigatie. In het midden staat een afbeelding van een Smart Zone.
+
 <img src="https://user-images.githubusercontent.com/112859814/195303782-5dd5580a-78c8-4c17-8ee4-4b410cac46e4.png" alt="screenshot pc 1" width=75%/>
+
+<b>Steden:</b><br>
+
+Zo ziet een stad er uit. Aan de linkerkant is een plattegrond van de stad met de locaties van de Smart Zones. In het midden de namen en adressen. Aan de rechterkant staat een kaart met de locatie van de stad.
 
 <img src="https://user-images.githubusercontent.com/112859814/195303789-2a6725cf-a330-4140-8297-eea6a982a304.png" alt="screenshot pc 2" width=75%/>
 
+<b>Footer:</b><br>
+
+Hier is de footer te zien. Hier staat het privacy statement en knoppen naar de pagina van Coding the Curbs en het contactformulier.
+
 <img src="https://user-images.githubusercontent.com/112859814/195304188-80f75ca1-cc5b-47a9-a6fe-891144a523f8.png" alt="screenshot pc 3" width=75%/>
 
-<img src="https://user-images.githubusercontent.com/112859814/195304572-aca6e45a-351f-4a4f-b196-eaaa8809bd0a.gif" alt="scroll voorbeeld"/>
+<b>Werking navigatie:</b><br>
 
+Hier is te zien hoe de navigatie werkt. Als je op de naam van de stad klikt, scroll je naar dat stuk op de website.
+
+<img src="https://user-images.githubusercontent.com/112859814/195304572-aca6e45a-351f-4a4f-b196-eaaa8809bd0a.gif" alt="scroll voorbeeld" width=75%/>
 
 De pagina is volledig responsive. Zo is de website ook makkelijk op een mobiel te bezoeken.
 
