@@ -21,15 +21,20 @@ Elke stad heeft de volgende informatie:
 Onderaan de pagina staan nog knoppen die verwijzen naar de originele pagina van Coding the Curbs en naar het contactformulier.
 
 ![screenshot pc website 1](https://user-images.githubusercontent.com/112859814/195289746-5bae1545-f456-42bf-a902-9c7994cd792e.png)
+
 ![screenshot pc website 2](https://user-images.githubusercontent.com/112859814/195289755-c0b2f700-6bef-4d56-801e-2c264dba3044.png)
+
 ![screenshot pc website 3](https://user-images.githubusercontent.com/112859814/195289758-8093547b-8f37-4c25-a506-3e5a9b2e6a06.png)
 
 De pagina is volledig responsive. Zo is de website ook makkelijk op een mobiel te bezoeken.
 
-![screenshot mobiel 1](https://user-images.githubusercontent.com/112859814/195291159-d26b8b1e-6072-4c19-b9c7-fa0de79c8db1.jpg)
-![screenshot mobiel 2](https://user-images.githubusercontent.com/112859814/195291175-25dc509f-9853-49c8-8143-b6021d16ea08.jpg)
-![screenshot mobiel 3](https://user-images.githubusercontent.com/112859814/195291179-2c2b0bd0-e942-4ad8-82e0-35c3b200c438.jpg)
-![screenshot mobiel 4](https://user-images.githubusercontent.com/112859814/195291186-76d37654-5148-40af-8e66-989b1f96b947.jpg)
+<img src="https://user-images.githubusercontent.com/112859814/195291159-d26b8b1e-6072-4c19-b9c7-fa0de79c8db1.jpg" alt="screenshot mobiel 1" width=25% />
+
+<img src="https://user-images.githubusercontent.com/112859814/195291175-25dc509f-9853-49c8-8143-b6021d16ea08.jpg" alt="screenshot mobiel 2" width=25% />
+
+<img src="https://user-images.githubusercontent.com/112859814/195291179-2c2b0bd0-e942-4ad8-82e0-35c3b200c438.jpg" alt="screenshot mobiel 3" width=25% />
+
+<img src="https://user-images.githubusercontent.com/112859814/195291186-76d37654-5148-40af-8e66-989b1f96b947.jpg" alt="screenshot mobiel 4" width=25% />
 
 ## Kenmerken
 <!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
